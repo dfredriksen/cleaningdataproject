@@ -3,7 +3,7 @@
 
 ###Subject                         
 ####Subject ID number
-#1..30 Unique identifier assigned to each subject
+1..30 Unique identifier assigned to each subject
 
 ###Activity                                         
 ####Type of Activity Performed

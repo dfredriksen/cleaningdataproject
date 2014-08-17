@@ -6,8 +6,8 @@
 #1..30 Unique identifier assigned to each subject
 
 ###Activity                                         
-Type of Activity Performed
-# WALKING WALKING_UPSTAIRS WALKING_DOWNSTAIRS SITTING STANDING LAYING Type of activity being performed by the subject
+####Type of Activity Performed
+WALKING WALKING_UPSTAIRS WALKING_DOWNSTAIRS SITTING STANDING LAYING Type of activity being performed by the subject
 
 ###MeanTimeBodyAccMeanX                             
 ####Subject mean time of tBodyAcc-X-mean() in the UCI HAR dataset

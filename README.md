@@ -56,7 +56,7 @@ Note: Camel Case was chosen for the table header names to improve readability
 
 * The tidy_dataset is then created by using ddply to calculate the means on all variable_column_names columns, grouped by Subject and ActivityLabel. The final tidy column headers are set to Subject, Activity, and the values in variable_column_names
 
-*The tidy_dataset variable is saved to tidy_dataset.txt in the current working directory using write.table, with row.names set to false.
+* The tidy_dataset variable is saved to tidy_dataset.txt in the current working directory using write.table, with row.names set to false.
 
 
 
